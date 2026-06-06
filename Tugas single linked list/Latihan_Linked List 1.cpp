@@ -2,7 +2,7 @@
 using namespace std;
 
 
- single linked list:
+// single linked list:
 struct Node {
     int data;
     Node* next;
